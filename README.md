@@ -33,7 +33,7 @@ Once you've enabled CI, test coverage, and dependency reports for your project, 
 Clone this repo into the directory you want to use for your new project, delete the Git history, and then reinit as a fresh Git repo:
 
 ```bash
-$ git clone https://github.com/chriswells0/node-typescript-template.git <your project directory>
+$ git clone https://github.com/paymantatar/node-typescript-archs.git <your project directory>
 $ cd <your project directory>
 $ rm -rf ./.git/
 $ git init
@@ -48,9 +48,9 @@ Be sure to check both [GitHub](https://github.com) and [NPMJS](https://www.npmjs
 
 Use exact searches to perform the following replacements throughout this project for the most efficient rebranding process:
 
-1. Replace my name with yours: `Chris Wells`
+1. Replace my name with yours: `Payman Tatar`
 2. Replace my website URL with yours: `https://chriswells.io`
-3. Replace my *GitHub* username and project name with yours: `chriswells0/node-typescript-template`
+3. Replace my *GitHub* username and project name with yours: `paymantatar/node-typescript-template`
 4. Replace my *NPM* project name with yours: `typescript-template`
 5. Update [package.json](package.json):
 	* Change `description` to suit your project.
@@ -108,18 +108,18 @@ Follow these steps to update your NPM package:
 
 This section is here as a reminder for you to explain to your users how to contribute to the projects you create from this template.
 
-[project-url]: https://github.com/chriswells0/node-typescript-template
+[project-url]: https://github.com/paymantatar/node-typescript-template
 [package-image]: https://badge.fury.io/js/typescript-template.svg
 [package-url]: https://badge.fury.io/js/typescript-template
-[issues-image]: https://img.shields.io/github/issues/chriswells0/node-typescript-template.svg?style=popout
-[issues-url]: https://github.com/chriswells0/node-typescript-template/issues
-[build-image]: https://travis-ci.org/chriswells0/node-typescript-template.svg?branch=master
-[build-url]: https://travis-ci.org/chriswells0/node-typescript-template
-[coverage-image]: https://coveralls.io/repos/github/chriswells0/node-typescript-template/badge.svg?branch=master
-[coverage-url]: https://coveralls.io/github/chriswells0/node-typescript-template?branch=master
-[dependencies-image]: https://david-dm.org/chriswells0/node-typescript-template/status.svg
-[dependencies-url]: https://david-dm.org/chriswells0/node-typescript-template
-[dev-dependencies-image]: https://david-dm.org/chriswells0/node-typescript-template/dev-status.svg
-[dev-dependencies-url]: https://david-dm.org/chriswells0/node-typescript-template?type=dev
+[issues-image]: https://img.shields.io/github/issues/paymantatar/node-typescript-template.svg?style=popout
+[issues-url]: https://github.com/paymantatar/node-typescript-template/issues
+[build-image]: https://travis-ci.org/paymantatar/node-typescript-template.svg?branch=master
+[build-url]: https://travis-ci.org/paymantatar/node-typescript-template
+[coverage-image]: https://coveralls.io/repos/github/paymantatar/node-typescript-template/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/github/paymantatar/node-typescript-template?branch=master
+[dependencies-image]: https://david-dm.org/paymantatar/node-typescript-template/status.svg
+[dependencies-url]: https://david-dm.org/paymantatar/node-typescript-template
+[dev-dependencies-image]: https://david-dm.org/paymantatar/node-typescript-template/dev-status.svg
+[dev-dependencies-url]: https://david-dm.org/paymantatar/node-typescript-template?type=dev
 [commitizen-image]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen-url]: http://commitizen.github.io/cz-cli

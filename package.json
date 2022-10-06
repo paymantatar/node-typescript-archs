@@ -7,13 +7,13 @@
     "template"
   ],
   "author": {
-    "name": "Chris Wells",
+    "name": "Payman Tatar",
     "url": "https://chriswells.io"
   },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chriswells0/node-typescript-template.git"
+    "url": "https://github.com/paymantatar/node-typescript-template.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
